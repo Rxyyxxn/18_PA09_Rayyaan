@@ -1,0 +1,9 @@
+C:\Users\rayyaan\Desktop\17_rayaan\Sem 3\18_PA09_Rayyaan\18_PA09_Rayyaan\18_PA09_Rayyaan\bin\Debug\18_PA09_Rayyaan.exe.config
+C:\Users\rayyaan\Desktop\17_rayaan\Sem 3\18_PA09_Rayyaan\18_PA09_Rayyaan\18_PA09_Rayyaan\bin\Debug\18_PA09_Rayyaan.exe
+C:\Users\rayyaan\Desktop\17_rayaan\Sem 3\18_PA09_Rayyaan\18_PA09_Rayyaan\18_PA09_Rayyaan\bin\Debug\18_PA09_Rayyaan.pdb
+C:\Users\rayyaan\Desktop\17_rayaan\Sem 3\18_PA09_Rayyaan\18_PA09_Rayyaan\18_PA09_Rayyaan\obj\Debug\18_PA09_Rayyaan.csprojAssemblyReference.cache
+C:\Users\rayyaan\Desktop\17_rayaan\Sem 3\18_PA09_Rayyaan\18_PA09_Rayyaan\18_PA09_Rayyaan\obj\Debug\_18_PA09_Rayyaan.Form1.resources
+C:\Users\rayyaan\Desktop\17_rayaan\Sem 3\18_PA09_Rayyaan\18_PA09_Rayyaan\18_PA09_Rayyaan\obj\Debug\_18_PA09_Rayyaan.Properties.Resources.resources
+C:\Users\rayyaan\Desktop\17_rayaan\Sem 3\18_PA09_Rayyaan\18_PA09_Rayyaan\18_PA09_Rayyaan\obj\Debug\18_PA09_Rayyaan.csproj.GenerateResource.cache
+C:\Users\rayyaan\Desktop\17_rayaan\Sem 3\18_PA09_Rayyaan\18_PA09_Rayyaan\18_PA09_Rayyaan\obj\Debug\18_PA09_Rayyaan.exe
+C:\Users\rayyaan\Desktop\17_rayaan\Sem 3\18_PA09_Rayyaan\18_PA09_Rayyaan\18_PA09_Rayyaan\obj\Debug\18_PA09_Rayyaan.pdb
