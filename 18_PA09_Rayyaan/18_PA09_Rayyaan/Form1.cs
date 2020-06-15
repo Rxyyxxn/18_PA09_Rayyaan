@@ -34,7 +34,7 @@ namespace _18_PA09_Rayyaan
 
         private void btn_convert_Click(object sender, EventArgs e)
         {
-            const decimal us = 0.74M, yen = 81.97M;
+            const decimal us = 0.74M, yen = 81.97M, ringgit = 3.01M;
 
             try
             {
@@ -50,7 +50,11 @@ namespace _18_PA09_Rayyaan
                     decimal answer = Amount * yen;
                     txt_converted.Text = answer.ToString();
                 }
-                
+                if (rb_Ringgit.Checked)
+                {
+                    decimal answer = Amount * ringgit;
+                    txt_converted.Text = answer.ToString();
+                }
                 else
                 {
                     txt_Amount.Text = "Choose one of the currencies";
